@@ -6,29 +6,26 @@ layout: default
 I am a master's course student (MC1) at Hokkaido University, Japan.
 I'm at [Knowledge Base Laboratory](http://www-kb.ist.hokudai.ac.jp/index-e.html) now.
 
-Sorry for Japanese... Soon be available.
-
 ## Affiliation
-- Oct. 2017 - Mar. 2019: 北海道大学情報科学研究科 情報理工学コース 大規模知識処理研究室
-- Apr. 2019 - Present: 北海道大学大学院情報科学院 情報科学専攻 情報理工学コース 知識ベース研究室
-- May 2019 - Present: 基盤(S)離散構造処理系プロジェクト 短期支援員
+- Oct. 2017 - Mar. 2019: [Large-Scale Knowledge Processing Laboratory](https://art.ist.hokudai.ac.jp/?lang=en), [Division of Computer Science and Information Technology](https://www.csit.ist.hokudai.ac.jp/), [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), [Hokkaido University](https://www.global.hokudai.ac.jp/).
+- Apr. 2019 - Present: [Knowledge Base Laboratory](http://www-kb.ist.hokudai.ac.jp/index-e.html), [Division of Computer Science and Information Technology](https://www.csit.ist.hokudai.ac.jp/), [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), [Hokkaido University](https://www.global.hokudai.ac.jp/).
+- May 2019 - Present: Temporary Research Assistant for [KAKENHI(S) Discrete Structure Manipulation System Project](https://www-erato.ist.hokudai.ac.jp/index.php?language=en).
 
 ## Biography
-- Mar. 2014: 北海道檜山北高等学校 卒業
-- Apr. 2014: 北海道大学工学部情報エレクトロニクス学科 入学
-- Mar. 2019: 北海道大学工学部情報エレクトロニクス学科 卒業
-- Apr. 2019: 北海道大学大学院情報科学院情報科学専攻情報理工学コース修士課程 入学
+- Mar. 2015: Hokkaido Hiyama Kita High School, Hokkaido, Japan.
+- Mar. 2019: B.A. in Engineering, Hokkaido University, Hokkaido, Japan.
 
-## My Research Interest and Topics
-離散構造、特にグラフ構造に興味があります。
-また関連し、グラフ上の離散最適化問題にも興味があります。
-最近は、グラフ構造を扱うニューラルネットワークである、Graph Neural Newtork (GNN) にも興味を持っています。
-また、Chemical データを卒業研究で扱ったのもあり、Chemoinformatics に対しても興味があります。
-
+## My Research Interests
 - Discrete Optimization (especially, on graph)
 - Graph Theory
 - Deep Learning on Graph (Graph Neural Network)
 - Chemoinformatics
+
+I'm interested in Discrete Structure, especially Graph Structure.
+And also I'm interested in Discrete Optimization on graph.
+Nowadays, I'm paying attention to Graph Neural Network (GNN) which treats Graph Structures.
+Since I used chemical data in graduation research, I'm also interested in Chemoinformatics.
+
 
 ## Contact (E-mail)
 - y-nakano (at) ist.hokudai.ac.jp
