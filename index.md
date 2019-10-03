@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to Japanese Page](./introduce-jp.html).
+[Link to Japanese Page](./index-jp.html).
 
 There should be whitespace between paragraphs.
 
