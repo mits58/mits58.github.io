@@ -20,7 +20,7 @@ Todo
 
 ## Contact (E-mail)
 - y-nakano (at) ist.hokudai.ac.jp
-- ynakano927@gmail.com
+- ynakano927 (at) gmail.com
 
 ## Publications & Talks
 ### Domestic Conference Papers (Non-refereed)
