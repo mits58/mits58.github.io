@@ -1,2 +1,2 @@
 # mits58
-my site
+個人サイト用Repository
