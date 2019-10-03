@@ -38,9 +38,10 @@ Todo
 
 ## Talks
 Todo
-
+<!--
 - 基盤(S) 離散構造処理系プロジェクト 2018年度 秋のワークショップ, November, 2018.
 - 基盤(S) 離散構造処理系プロジェクト「短期滞在セミナー週間 (SSSW) 2018.06」, June, 2018.
+-->
 
 # Research Internship
 Apr. 2019 - Sep. 2019: 株式会社Preferred Networks
