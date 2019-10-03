@@ -5,21 +5,22 @@ layout: default
 現在は[知識ベース研究室](http://www-kb.ist.hokudai.ac.jp/)に所属しています。
 
 ## Affiliation
-Oct. 2017 - Mar. 2019: 北海道大学情報科学研究科 情報理工学コース 大規模知識処理研究室
-Apr. 2019 - Present: 北海道大学大学院情報科学院 情報科学専攻 情報理工学コース 知識ベース研究室
-May 2019 - Present: Temporary Research Assistant for KAKENHI(S) Discrete Structure Manipulation System Project.
+- Oct. 2017 - Mar. 2019: 北海道大学情報科学研究科 情報理工学コース 大規模知識処理研究室
+- Apr. 2019 - Present: 北海道大学大学院情報科学院 情報科学専攻 情報理工学コース 知識ベース研究室
+- May 2019 - Present: 基盤(S)離散構造処理系プロジェクト 短期支援員
 
 ## Biography
-Mar. 2014: 北海道檜山北高等学校 卒業
-Apr. 2014: 北海道大学工学部情報エレクトロニクス学科 入学
-Mar. 2019: 北海道大学工学部情報エレクトロニクス学科 卒業
-Apr. 2019: 北海道大学大学院情報科学院情報科学専攻情報理工学コース修士課程 入学
+- Mar. 2014: 北海道檜山北高等学校 卒業
+- Apr. 2014: 北海道大学工学部情報エレクトロニクス学科 入学
+- Mar. 2019: 北海道大学工学部情報エレクトロニクス学科 卒業
+- Apr. 2019: 北海道大学大学院情報科学院情報科学専攻情報理工学コース修士課程 入学
 
 ## My Research Interest and Topics
 Todo
 
 ## Contact (E-mail)
-y-nakano (at) ist.hokudai.ac.jp
+- y-nakano (at) ist.hokudai.ac.jp
+- ynakano927@gmail.com
 
 ## Publications & Talks
 ### Domestic Conference Papers (Non-refereed)
@@ -45,5 +46,5 @@ Todo
 Apr. 2019 - Sep. 2019: 株式会社Preferred Networks
 
 # Teaching Experiences
-Apr. 2019 - Jun. 2019: 北海道大学工学部情報エレクトロニクス学科 "計算機プログラミングⅠ" ティーチングアシスタント(TA)
-Apr. 2019 - May. 2019: 北海道大学工学部情報エレクトロニクス学科情報理工学コース "情報理工学実験I" ティーチングアシスタント(TA)
+- Apr. 2019 - Jun. 2019: 北海道大学工学部情報エレクトロニクス学科 "計算機プログラミングⅠ" ティーチングアシスタント(TA)
+- Apr. 2019 - May. 2019: 北海道大学工学部情報エレクトロニクス学科情報理工学コース "情報理工学実験I" ティーチングアシスタント(TA)
