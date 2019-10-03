@@ -1,123 +1,55 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to Japanese Page](./index-jp.html).
 
-There should be whitespace between paragraphs.
+I am a master's course student (MC1) at Hokkaido University, Japan.
+I'm at [Knowledge Base Laboratory](http://www-kb.ist.hokudai.ac.jp/index-e.html) now.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Sorry for Japanese... Soon be available.
 
-# Header 1
+## Affiliation
+- Oct. 2017 - Mar. 2019: 北海道大学情報科学研究科 情報理工学コース 大規模知識処理研究室
+- Apr. 2019 - Present: 北海道大学大学院情報科学院 情報科学専攻 情報理工学コース 知識ベース研究室
+- May 2019 - Present: 基盤(S)離散構造処理系プロジェクト 短期支援員
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Biography
+- Mar. 2014: 北海道檜山北高等学校 卒業
+- Apr. 2014: 北海道大学工学部情報エレクトロニクス学科 入学
+- Mar. 2019: 北海道大学工学部情報エレクトロニクス学科 卒業
+- Apr. 2019: 北海道大学大学院情報科学院情報科学専攻情報理工学コース修士課程 入学
 
-## Header 2
+## My Research Interest and Topics
+離散構造、特にグラフ構造に興味があります。
+また関連し、グラフ上の離散最適化問題にも興味があります。
+最近は、グラフ構造を扱うニューラルネットワークである、Graph Neural Newtork (GNN) にも興味を持っています。
+また、Chemical データを卒業研究で扱ったのもあり、Chemoinformatics に対しても興味があります。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Discrete Optimization (especially, on graph)
+- Graph Theory
+- Deep Learning on Graph (Graph Neural Network)
+- Chemoinformatics
 
-### Header 3
+## Contact (E-mail)
+- y-nakano (at) ist.hokudai.ac.jp
+- ynakano927 (at) gmail.com
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Publications
+### Domestic Conference Papers (Non-refereed)
+- 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=194479&item_no=1)", 第122回数理モデル化と問題解決研究発表会, 2019-MPS-122, February, 2019.
+- 鈴木 浩史, 中野 裕太, 住谷 陽輔, 湊 真一, 前田 理: "[化学反応経路ネットワークにおけるZDDを用いたエネルギー制限付き経路列挙](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=191038&item_no=1&page_id=13&block_id=8)", 第169回アルゴリズム研究発表会, 2018-AL-169, August, 2018.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Theses
+学士（工学）
+中野 裕太: "化学反応ネットワークにおける最適反応経路候補の列挙", 北海道大学, March, 2019.
 
-#### Header 4
+## Talks
+- 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=51)", February, 2019.
+- 中野 裕太, 瀧川 一学: "[エネルギー制限付き反応経路ネットワーク上におけるK-Bestパス列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=47)", November, 2018.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Research Internship
+Apr. 2019 - Sep. 2019: [株式会社Preferred Networks](https://preferred.jp/en/)
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Teaching Experiences
+- Apr. 2019 - Jun. 2019: 北海道大学工学部情報エレクトロニクス学科 "計算機プログラミングⅠ" ティーチングアシスタント(TA)
+- Apr. 2019 - May. 2019: 北海道大学工学部情報エレクトロニクス学科情報理工学コース "情報理工学実験I" ティーチングアシスタント(TA)
