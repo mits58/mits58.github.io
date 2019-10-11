@@ -10,16 +10,16 @@ layout: default
 - May 2019 - Present: 基盤(S)離散構造処理系プロジェクト 短期支援員
 
 ## Biography
-- Mar. 2014: 北海道檜山北高等学校 卒業
-- Apr. 2014: 北海道大学工学部情報エレクトロニクス学科 入学
+- Mar. 2015: 北海道檜山北高等学校 卒業
+- Apr. 2015: 北海道大学工学部情報エレクトロニクス学科 入学
 - Mar. 2019: 北海道大学工学部情報エレクトロニクス学科 卒業
 - Apr. 2019: 北海道大学大学院情報科学院情報科学専攻情報理工学コース修士課程 入学
 
-## My Research Interest and Topics
+## My Research Interests
 離散構造、特にグラフ構造に興味があります。
 また関連し、グラフ上の離散最適化問題にも興味があります。
 最近は、グラフ構造を扱うニューラルネットワークである、Graph Neural Newtork (GNN) にも興味を持っています。
-また、Chemical なデータを卒業研究で扱ったのもあり、Chemoinformatics に対しても興味があります。
+また、Chemical データを卒業研究で扱ったのもあり 、Chemoinformatics に対しても興味があります。
 
 - Discrete Optimization (especially, on graph)
 - Graph Theory
@@ -40,11 +40,11 @@ layout: default
 中野 裕太: "化学反応ネットワークにおける最適反応経路候補の列挙", 北海道大学, March, 2019.
 
 ## Talks
-- 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=51)", February, 2019.
-- 中野 裕太, 瀧川 一学: "[エネルギー制限付き反応経路ネットワーク上におけるK-Bestパス列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=47)", November, 2018.
+- 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=51)", 北大京大合同セミナ集会, February, 2019.
+- 中野 裕太, 瀧川 一学: "[エネルギー制限付き反応経路ネットワーク上におけるK-Bestパス列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=47)", 基盤(S) 離散構造処理系プロジェクト 2018年度 秋のワークショップ, November, 2018.
 
 ## Research Internship
-Apr. 2019 - Sep. 2019: 株式会社Preferred Networks
+Apr. 2019 - Sep. 2019: [株式会社Preferred Networks](https://preferred.jp/en/)
 
 ## Teaching Experiences
 - Apr. 2019 - Jun. 2019: 北海道大学工学部情報エレクトロニクス学科 "計算機プログラミングⅠ" ティーチングアシスタント(TA)
