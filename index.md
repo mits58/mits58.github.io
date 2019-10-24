@@ -16,7 +16,7 @@ I'm at [Knowledge Base Laboratory](http://www-kb.ist.hokudai.ac.jp/index-e.html)
 - Mar. 2019: B.A. in Engineering, Hokkaido University, Hokkaido, Japan.
 
 ## My Research Interests
-- Discrete Optimization (especially, on graph)
+- Discrete Optimization on graphs
 - Graph Theory
 - Deep Learning on Graph (Graph Neural Network)
 - Chemoinformatics
