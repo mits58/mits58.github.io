@@ -40,6 +40,7 @@ layout: default
 中野 裕太: "化学反応ネットワークにおける最適反応経路候補の列挙", 北海道大学, March, 2019.
 
 ## Talks
+- 中野　裕太, 酒井　政裕, 劉 鴻志: "[Graph Neural Networkを用いたグラフの木幅予測](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=56)", 基盤(S) 離散構造処理系プロジェクト 2019年度 秋のワークショップ, November, 2019.
 - 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=51)", 北大京大合同セミナ集会, February, 2019.
 - 中野 裕太, 瀧川 一学: "[エネルギー制限付き反応経路ネットワーク上におけるK-Bestパス列挙](http://www-erato.ist.hokudai.ac.jp/html/php/sub_html.php?id=47)", 基盤(S) 離散構造処理系プロジェクト 2018年度 秋のワークショップ, November, 2018.
 
