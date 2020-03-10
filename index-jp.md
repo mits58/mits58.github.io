@@ -56,3 +56,8 @@ layout: default
 ## Teaching Experiences
 - Apr. 2019 - Jun. 2019: 北海道大学工学部情報エレクトロニクス学科 "計算機プログラミングⅠ" ティーチングアシスタント(TA)
 - Apr. 2019 - May. 2019: 北海道大学工学部情報エレクトロニクス学科情報理工学コース "情報理工学実験I" ティーチングアシスタント(TA)
+
+## Links
+- [Blog](https://mits58.hatenablog.com/)
+- [GitHub](https://github.com/mits58)
+- [Twitter](https://twitter.com/mits58)
