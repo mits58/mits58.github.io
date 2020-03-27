@@ -33,7 +33,7 @@ layout: default
 
 ## Publications
 ### Domestic Conference Papers (Non-refereed)
-- 中野 裕太, 瀧川 一学: "[グラフ上の組合せ最適化問題に対するアルゴリズムへのGraph Neural Networksを用いた枝刈りの導入](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10610&item_no=1&page_id=13&block_id=23)", 第111回人工知能基本問題研究会, SIG-FPAI-B902-05, Jan, 2020.
+- 中野 裕太, 吉岡 真治: "[グラフ上の組合せ最適化問題に対するアルゴリズムへのGraph Neural Networksを用いた枝刈りの導入](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10610&item_no=1&page_id=13&block_id=23)", 第111回人工知能基本問題研究会, SIG-FPAI-B902-05, Jan, 2020.
 - 中野 裕太, 瀧川 一学: "[化学反応ネットワークにおける最適反応経路候補の列挙](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=194479&item_no=1)", 第122回数理モデル化と問題解決研究発表会, 2019-MPS-122, February, 2019.
 - 鈴木 浩史, 中野 裕太, 住谷 陽輔, 湊 真一, 前田 理: "[化学反応経路ネットワークにおけるZDDを用いたエネルギー制限付き経路列挙](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=191038&item_no=1&page_id=13&block_id=8)", 第169回アルゴリズム研究発表会, 2018-AL-169, August, 2018.
 
