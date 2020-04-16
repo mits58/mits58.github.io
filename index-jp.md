@@ -3,7 +3,7 @@ layout: default
 ---
 [Link to English Page](./).
 
-北海道大学情報科学院情報科学専攻情報理工学コース修士1年の中野裕太です。
+北海道大学情報科学院情報科学専攻情報理工学コース修士2年の中野裕太です。
 現在は[知識ベース研究室](http://www-kb.ist.hokudai.ac.jp/)に所属しています。
 
 ## Affiliation

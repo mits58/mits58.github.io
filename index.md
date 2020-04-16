@@ -3,7 +3,7 @@ layout: default
 ---
 [日本語ページはこちら](./index-jp.html)。
 
-I am a master's course student (MC1) at Hokkaido University, Japan.
+I am a master's course student (MC2) at Hokkaido University, Japan.
 I'm at [Knowledge Base Laboratory](http://www-kb.ist.hokudai.ac.jp/index-e.html) now.
 
 ## Affiliation
